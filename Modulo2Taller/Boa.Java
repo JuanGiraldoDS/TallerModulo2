@@ -9,6 +9,7 @@ public class Boa extends Piece {
     }
     public String peso(){
         return "15 kg";
+        // COMENTARIO
     }
     public String  MaximoEspecies(){
         return "30";
